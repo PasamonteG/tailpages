@@ -8,7 +8,7 @@ permalink: about
 
 ## Profile Image
 
-The following profile image was copied when I forked. To be changed.
+The following profile image is extracted from an XIXth century edition of Don Quixote.
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/gines.jpg">
 
 ## References
