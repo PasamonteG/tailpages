@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Ginés de Pasamonte
 author-bio: Professional Malote  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author-image: gines.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
