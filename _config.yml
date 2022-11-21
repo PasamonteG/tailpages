@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
 baseurl: "/tailpages" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+url: "https://pasamonteg.github.io/" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Tailpages: Tailwind + Github Pages"
@@ -10,8 +10,8 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Ginés de Pasamonte
+author-bio: Professional Malote  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -26,21 +26,21 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
+twitter: false #https://twitter.com/
+facebook: false #https://facebook.com/
+instagram: false #https://instagram.com/
 github: https://github.com/
-linkedin: https://linkedin.com/
-medium: false
-google-scholar: false
-email: false
+linkedin: false #https://linkedin.com/
+medium: false #false
+google-scholar: false #false
+email: false #false
 
 # footer information
 footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg-link: https://pasamonteg.github.io/tailpages
 
 # google analytics
-google-analytics: G-WCRC1TC2V5
+google-analytics: false #G-WCRC1TC2V5
 
 # jekyll plugins - no need to change
 plugins:
