@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+> Ginés de Pasamonte is a fictional character in Miguel de Cervantes' novel Don Quixote. Ginés first appears as a criminal freed by Don Quixote in the 22nd chapter of the first part of the novel. After his release, he escapes Don Quixote and the guards. He later reappears as Maese Pedro, a puppeteer who claims that he can talk to his monkey, on the 26th chapter of the second part. 
 
 ## Profile Image
 
